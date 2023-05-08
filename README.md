@@ -16,7 +16,7 @@ I have interned at Uber and have done some pro bono work for Ternium and Wizelin
 ## Awards
 
 <figure>
-  <img class="img-fluid" src="https://github.com/TheGerryStone1/TheGerryStone1/blob/main/files/Gerardo_page-0001.jpg" alt="img-verification" width="50%" height="50%">
+  <img class="img-fluid" src="https://github.com/TheGerryStone1/TheGerryStone1/blob/main/files/Gerardo_page-0001.jpg" alt="img-verification" width="70%" height="70%">
   <figcaption>Capacitation and Onboarding Project offered by Ternium.</figcaption>
 </figure>
 
